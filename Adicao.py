@@ -10,5 +10,5 @@ if 'a' == resolucao.lower():
     soma = num1 + num2
     print("A soma é {0}".format(soma))
 elif 's' == resolucao.lower():
-    soma = num1 - num2
-    print("A subtração é {0}".format(soma))
+    subtracao = num1 - num2
+    print("A subtração é {0}".format(subtracao))
